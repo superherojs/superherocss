@@ -18,16 +18,16 @@ Let's collect some links. Please add categories as you see fit.
 * Extra: http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
 
 
-## Understanding CSS: selectors, properties, values
+## The design process: post-its, wireframes, stories
 
-* http://csswizardry.com/2011/09/writing-efficient-css-selectors/
+* http://nathanbarry.com/wireframing-web-application/
 * b
 * c
 
 
-## The design process: post-its, wireframes, stories
+## Understanding CSS: selectors, properties, values
 
-* http://nathanbarry.com/wireframing-web-application/
+* http://csswizardry.com/2011/09/writing-efficient-css-selectors/
 * b
 * c
 
@@ -46,18 +46,12 @@ Let's collect some links. Please add categories as you see fit.
 * c
 
 
-## Positioning: Floats, absolutes, fixeds
+## Layout: Floats, absolutes, fixeds, fluids, breakpoints
 
 * http://learnlayout.com/
 * b
 * c
 
-
-## Responsive: Mobile, breakpoints, fluid, retina
-
-* a
-* b
-* c
 
 ## Organizing CSS: Modular, Extensible, Scalable
 
