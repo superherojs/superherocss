@@ -48,14 +48,14 @@ Let's collect some links. Please add categories as you see fit.
 ## Layout: Floats, absolutes, fixeds, fluids, breakpoints
 
 * http://learnlayout.com/
-* b
+* http://coding.smashingmagazine.com/2009/10/19/the-mystery-of-css-float-property/
 * c
 
 
 ## Organizing CSS: Modular, Extensible, Scalable
 
 * http://smacss.com/
-* b
+* http://inuitcss.com/
 * c
 
 
