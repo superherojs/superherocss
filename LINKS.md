@@ -47,7 +47,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Positioning: Floats, absolutes, fixeds
 
-* a
+* http://learnlayout.com/
 * b
 * c
 
@@ -67,6 +67,6 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Other resources: books, sites, people, places
 
-* a
+* http://smacss.com/
 * b
 * c
