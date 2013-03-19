@@ -67,6 +67,6 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Other resources: books, sites, people, places
 
-* http://smacss.com/
+* a
 * b
 * c
