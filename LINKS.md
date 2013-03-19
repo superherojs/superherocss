@@ -19,7 +19,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Understanding CSS: selectors, properties, values
 
-* a
+* http://csswizardry.com/2011/09/writing-efficient-css-selectors/
 * b
 * c
 
