@@ -10,6 +10,13 @@ and hides its weaknesses.
 Let's collect some links. Please add categories as you see fit.
 
 
+## Design basics: Perspectives, inspiration, basics
+
+* a
+* b
+* c
+
+
 ## Understanding CSS: selectors, properties, values
 
 * a
@@ -19,7 +26,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## The design process: post-its, wireframes, stories
 
-* a
+* http://nathanbarry.com/wireframing-web-application/
 * b
 * c
 
