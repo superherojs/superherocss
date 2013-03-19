@@ -66,6 +66,13 @@ Let's collect some links. Please add categories as you see fit.
 * c
 
 
+## Tools: Libraries, helpers, debugging, performace
+
+* http://daneden.me/animate/
+* http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/
+* c
+
+
 ## Other resources: books, sites, people, places
 
 * a
