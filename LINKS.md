@@ -58,6 +58,12 @@ Let's collect some links. Please add categories as you see fit.
 * b
 * c
 
+## Organizing CSS: Modular, Extensible, Scalable
+
+* http://smacss.com/
+* b
+* c
+
 
 ## Other resources: books, sites, people, places
 
