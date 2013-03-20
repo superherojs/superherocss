@@ -11,7 +11,6 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Design basics: Perspectives, inspiration, basics
 
-*
 * http://layervault.tumblr.com/post/32267022219/flat-interface-design
 * http://www.minimallyminimal.com/2012/7/3/the-next-microsoft.html
 * http://layervault.tumblr.com/post/42361566927/progressive-reduction
