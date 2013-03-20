@@ -11,16 +11,17 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Design basics: Perspectives, inspiration, basics
 
-* a
-* b
-* http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1
+*
+* http://layervault.tumblr.com/post/32267022219/flat-interface-design
+* http://www.minimallyminimal.com/2012/7/3/the-next-microsoft.html
+* http://layervault.tumblr.com/post/42361566927/progressive-reduction
 * Extra: http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
 
 
-## The design process: post-its, wireframes, stories
+## The design process: post-its, wireframes, stories, plans
 
 * http://nathanbarry.com/wireframing-web-application/
-* b
+* http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1
 * c
 
 
@@ -45,7 +46,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Typography: Basics, baselines, web fonts
 
-* a
+* http://informationarchitects.net/blog/responsive-typography-the-basics/
 * b
 * c
 
@@ -92,3 +93,4 @@ Let's collect some links. Please add categories as you see fit.
 * http://www.abookapart.com/products/responsive-web-design
 * http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web
 * http://www.fivesimplesteps.com/products/the-icon-handbook
+* http://nathanbarry.com/webapps/
