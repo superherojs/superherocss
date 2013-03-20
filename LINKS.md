@@ -31,7 +31,7 @@ Let's collect some links. Please add categories as you see fit.
 * http://css-tricks.com/specifics-on-css-specificity/
 * http://reference.sitepoint.com/css/specificity
 * http://designshack.net/articles/css/what-the-heck-is-css-specificity/
-* http://coding.smashingmagazine.com/2010/04/07/css-specificity-and-inheritance/ 
+* http://coding.smashingmagazine.com/2010/04/07/css-specificity-and-inheritance/
 * http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 * http://www.w3.org/TR/CSS21/propidx.html (automatically inherited values overview)
 
@@ -52,6 +52,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Layout: Floats, absolutes, fixeds, fluids, breakpoints
 
+* http://alistapart.com/article/responsive-web-design
 * http://learnlayout.com/
 * http://coding.smashingmagazine.com/2009/10/19/the-mystery-of-css-float-property/
 * https://developer.mozilla.org/en-US/docs/CSS/box_model
@@ -73,7 +74,8 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://smacss.com/
 * http://inuitcss.com/
-* c
+* https://github.com/stubbornella/oocss/wiki
+* http://warpspire.com/posts/kss/
 
 
 ## Tools: Libraries, helpers, debugging, performance
@@ -87,5 +89,5 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://www.amazon.com/Handcrafted-CSS-Bulletproof-Design-Essentials/dp/0321658531
 * http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/
-* c
+* http://www.abookapart.com/products/responsive-web-design
 
