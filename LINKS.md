@@ -14,6 +14,9 @@ Let's collect some links. Please add categories as you see fit.
 * http://layervault.tumblr.com/post/32267022219/flat-interface-design
 * http://www.minimallyminimal.com/2012/7/3/the-next-microsoft.html
 * http://layervault.tumblr.com/post/42361566927/progressive-reduction
+* Inspiration: http://dribbble.com/shots/popular/
+* Inspiration: http://www.awwwards.com/
+* Inspiration: http://patterntap.com/
 * Extra: http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
 
 
@@ -93,3 +96,4 @@ Let's collect some links. Please add categories as you see fit.
 * http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web
 * http://www.fivesimplesteps.com/products/the-icon-handbook
 * http://nathanbarry.com/webapps/
+* http://sidebar.io/
