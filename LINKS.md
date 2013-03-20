@@ -27,7 +27,7 @@ Let's collect some links. Please add categories as you see fit.
 ## Understanding CSS: selectors, properties, values
 
 * http://csswizardry.com/2011/09/writing-efficient-css-selectors/
-* b
+* http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/
 * c
 
 
