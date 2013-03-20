@@ -96,3 +96,4 @@ Let's collect some links. Please add categories as you see fit.
 * http://sidebar.io/
 * https://developer.mozilla.org/en/docs/CSS
 * http://css-tricks.com/
+* http://www.abookapart.com/products/css3-for-web-designers
