@@ -13,7 +13,7 @@ Let's collect some links. Please add categories as you see fit.
 
 * a
 * b
-* c
+* http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1
 * Extra: http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
 
 
@@ -38,7 +38,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Colors: Mixing, matching, specifying
 
-* a
+* http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-with-colour-part-2-a-few-basics
 * b
 * c
 
@@ -67,7 +67,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## CSS3: Transitions, transforms, gradients
 * http://blog.alexmaccaw.com/css-transitions
-* b
+* http://daneden.me/animate/
 * c
 
 ## Organizing CSS: Modular, Extensible, Scalable
@@ -80,9 +80,9 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Tools: Libraries, helpers, debugging, performance
 
-* http://daneden.me/animate/
 * http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/
 * http://www.stevesouders.com/blog/2009/04/09/dont-use-import/
+* c
 
 
 ## Other resources: books, sites, people, places
@@ -90,4 +90,5 @@ Let's collect some links. Please add categories as you see fit.
 * http://www.amazon.com/Handcrafted-CSS-Bulletproof-Design-Essentials/dp/0321658531
 * http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/
 * http://www.abookapart.com/products/responsive-web-design
-
+* http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web
+* http://www.fivesimplesteps.com/products/the-icon-handbook
