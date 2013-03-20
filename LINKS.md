@@ -24,11 +24,16 @@ Let's collect some links. Please add categories as you see fit.
 * c
 
 
-## Understanding CSS: selectors, properties, values
+## Understanding CSS: selectors, specificity, properties, values
 
 * http://csswizardry.com/2011/09/writing-efficient-css-selectors/
 * http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/
-* c
+* http://css-tricks.com/specifics-on-css-specificity/
+* http://reference.sitepoint.com/css/specificity
+* http://designshack.net/articles/css/what-the-heck-is-css-specificity/
+* http://coding.smashingmagazine.com/2010/04/07/css-specificity-and-inheritance/ 
+* http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
+* http://www.w3.org/TR/CSS21/propidx.html (automatically inherited values overview)
 
 
 ## Colors: Mixing, matching, specifying
@@ -49,8 +54,20 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://learnlayout.com/
 * http://coding.smashingmagazine.com/2009/10/19/the-mystery-of-css-float-property/
-* c
+* https://developer.mozilla.org/en-US/docs/CSS/box_model
+* http://css-tricks.com/the-css-box-model/
+* http://www.w3.org/TR/css3-ui/#box-sizing
+* http://alistapart.com/article/css-floats-101
+* http://css-tricks.com/all-about-floats/
+* http://coding.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
+* https://github.com/andreasbovens/understanding-viewport
+* http://alistapart.com/article/css-positioning-101
 
+
+## CSS3: Transitions, transforms, gradients
+* http://blog.alexmaccaw.com/css-transitions
+* b
+* c
 
 ## Organizing CSS: Modular, Extensible, Scalable
 
@@ -63,11 +80,12 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://daneden.me/animate/
 * http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/
-* c
+* http://www.stevesouders.com/blog/2009/04/09/dont-use-import/
 
 
 ## Other resources: books, sites, people, places
 
-* a
-* b
+* http://www.amazon.com/Handcrafted-CSS-Bulletproof-Design-Essentials/dp/0321658531
+* http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/
 * c
+
