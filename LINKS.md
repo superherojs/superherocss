@@ -24,11 +24,11 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://nathanbarry.com/wireframing-web-application/
 * http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1
-* c
 
 
 ## Understanding CSS: selectors, specificity, properties, values
 
+* https://github.com/necolas/idiomatic-css
 * http://csswizardry.com/2011/09/writing-efficient-css-selectors/
 * http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/
 * http://css-tricks.com/specifics-on-css-specificity/
@@ -42,15 +42,11 @@ Let's collect some links. Please add categories as you see fit.
 ## Colors: Mixing, matching, specifying
 
 * http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-with-colour-part-2-a-few-basics
-* b
-* c
 
 
 ## Typography: Basics, baselines, web fonts
 
 * http://informationarchitects.net/blog/responsive-typography-the-basics/
-* b
-* c
 
 
 ## Layout: Floats, absolutes, fixeds, fluids, breakpoints
@@ -69,9 +65,10 @@ Let's collect some links. Please add categories as you see fit.
 
 
 ## CSS3: Transitions, transforms, gradients
+
 * http://blog.alexmaccaw.com/css-transitions
 * http://daneden.me/animate/
-* c
+
 
 ## Organizing CSS: Modular, Extensible, Scalable
 
@@ -85,7 +82,7 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/
 * http://www.stevesouders.com/blog/2009/04/09/dont-use-import/
-* c
+* https://developers.google.com/chrome-developer-tools/docs/elements-styles
 
 
 ## Other resources: books, sites, people, places
@@ -97,3 +94,5 @@ Let's collect some links. Please add categories as you see fit.
 * http://www.fivesimplesteps.com/products/the-icon-handbook
 * http://nathanbarry.com/webapps/
 * http://sidebar.io/
+* https://developer.mozilla.org/en/docs/CSS
+* http://css-tricks.com/
