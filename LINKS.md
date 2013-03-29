@@ -98,3 +98,4 @@ Let's collect some links. Please add categories as you see fit.
 * http://css-tricks.com/
 * http://www.abookapart.com/products/css3-for-web-designers
 * http://css-weekly.com/
+* http://html5weekly.com/
