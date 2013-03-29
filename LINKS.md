@@ -100,3 +100,4 @@ Let's collect some links. Please add categories as you see fit.
 * http://css-weekly.com/
 * http://html5weekly.com/
 * http://www.html5rocks.com/en/tutorials/speed/parallax/
+* http://www.html5rocks.com/en/tutorials/speed/scrolling/
