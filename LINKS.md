@@ -57,6 +57,7 @@ Let's collect some links. Please add categories as you see fit.
 * https://developer.mozilla.org/en-US/docs/CSS/box_model
 * http://css-tricks.com/the-css-box-model/
 * http://www.w3.org/TR/css3-ui/#box-sizing
+* http://paulirish.com/2012/box-sizing-border-box-ftw/
 * http://alistapart.com/article/css-floats-101
 * http://css-tricks.com/all-about-floats/
 * http://coding.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
