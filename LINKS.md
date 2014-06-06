@@ -69,6 +69,7 @@ Let's collect some links. Please add categories as you see fit.
 
 * http://blog.alexmaccaw.com/css-transitions
 * http://daneden.me/animate/
+* http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 
 
 ## Organizing CSS: Modular, Extensible, Scalable
@@ -88,6 +89,7 @@ Let's collect some links. Please add categories as you see fit.
 
 ## Other resources: books, sites, people, places
 
+* http://wtfhtmlcss.com/
 * http://www.amazon.com/Handcrafted-CSS-Bulletproof-Design-Essentials/dp/0321658531
 * http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/
 * http://www.abookapart.com/products/responsive-web-design
